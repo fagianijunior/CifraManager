@@ -56,6 +56,12 @@ GEM
       concurrent-ruby (~> 1.0)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
+    libv8 (3.16.14.19.1)
+    libv8 (3.16.14.19.1-arm-linux)
+    libv8 (3.16.14.19.1-universal-darwin)
+    libv8 (3.16.14.19.1-x86-linux)
+    libv8 (3.16.14.19.1-x86_64-darwin)
+    libv8 (3.16.14.19.1-x86_64-linux)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
@@ -115,6 +121,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
+    ref (2.0.0)
     rexml (3.4.1)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -127,6 +134,9 @@ GEM
     temple (0.10.3)
     terser (1.2.5)
       execjs (>= 0.3.0, < 3)
+    therubyracer (0.12.3)
+      libv8 (~> 3.16.14.15)
+      ref
     thor (1.2.2)
     tilt (2.6.0)
     toml (0.3.0)
@@ -156,6 +166,7 @@ DEPENDENCIES
   middleman-autoprefixer (~> 3.0)
   middleman-sprockets
   terser (~> 1.1)
+  therubyracer
   tzinfo-data
   wdm (~> 0.1)
 
