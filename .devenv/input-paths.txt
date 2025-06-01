@@ -1,0 +1,7 @@
+/home/terabytes/Workspaces/fagianijunior/CifraManager/.devenv/flake.json
+/home/terabytes/Workspaces/fagianijunior/CifraManager/.devenv.flake.nix
+/home/terabytes/Workspaces/fagianijunior/CifraManager/.env
+/home/terabytes/Workspaces/fagianijunior/CifraManager/devenv.local.nix
+/home/terabytes/Workspaces/fagianijunior/CifraManager/devenv.lock
+/home/terabytes/Workspaces/fagianijunior/CifraManager/devenv.nix
+/home/terabytes/Workspaces/fagianijunior/CifraManager/devenv.yaml

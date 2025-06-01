@@ -13,6 +13,7 @@
   # languages.rust.enable = true;
   languages.ruby.enable = true;
   languages.javascript.enable = true;
+  languages.javascript.yarn.enable = true;
 
   # https://devenv.sh/processes/
   # processes.cargo-watch.exec = "cargo-watch";
